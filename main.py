@@ -702,3 +702,5 @@
 # calc(20, 20, "+")
 # calc(20, 20, "*")
 # calc(20, 0, "*")
+
+print("kylychbek")
